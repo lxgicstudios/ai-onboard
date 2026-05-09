@@ -15,30 +15,38 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "ai",
+    "ai-2025",
+    "ai-powered",
     "anthropic",
-    "claude",
-    "llm",
-    "openai",
-    "gpt",
-    "onboarding",
-    "documentation",
-    "contributing",
-    "getting-started",
-    "developer-tools",
-    "cli",
     "automation",
-    "typescript",
-    "nodejs",
-    "readme",
-    "setup"
+    "claude",
+    "cli",
+    "contributing",
+    "developer-productivity",
+    "developer-tools",
+    "discoverability",
+    "documentation",
+    "generative-ai",
+    "getting-started",
+    "gpt",
+    "llm-optimized",
+    "modern-seo",
+    "onboarding",
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "seo",
+    "seo-2026",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-onboard#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-onboard.git"
+    "url": "https://github.com/LXGIC-Studios/ai-onboard"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-onboard/issues"

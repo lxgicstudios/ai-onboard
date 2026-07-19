@@ -8,7 +8,7 @@
     "ai-onboard": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/npm-tools/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-onboard/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -31,7 +31,7 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-onboard",
+  "homepage": "https://github.com/LXGIC-Studios/ai-onboard",
   "keywords": [
     "onboarding",
     "developer-setup",
@@ -39,7 +39,18 @@
     "cli",
     "getting-started",
     "june-2026-core-update",
-    "technical-seo"
+    "technical-seo",
+    "ai",
+    "anthropic",
+    "automation",
+    "claude",
+    "copilot",
+    "cursor",
+    "developer-tools",
+    "devtools",
+    "gpt",
+    "npx",
+    "openai"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -50,8 +61,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/npm-tools.git",
-    "directory": "ai-onboard"
+    "url": "git+https://github.com/LXGIC-Studios/ai-onboard.git"
   },
   "scripts": {
     "build": "tsc"
